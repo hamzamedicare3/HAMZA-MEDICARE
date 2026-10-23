@@ -1,0 +1,6 @@
+{
+  "name": "AuraBill - Automated Invoicing & RBAC Billing System",
+  "description": "Automated billing software for invoice management, intelligent payment status tracking, and multi-tier role-based access control with administrative user provisioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
